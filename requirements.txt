@@ -1,0 +1,1 @@
+-e git+https://github.com/hinrah/nnunet4D.git@1cd14c2f3c19cbb07305d9cdc9f258b0d1c29d07#egg=nnunetv2
